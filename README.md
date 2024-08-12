@@ -1,3 +1,18 @@
+Step 1 - Build a static version
+
+Step 2 - Identify states
+    - the list of tasks
+    - the text of the new task that user has entered
+    - the value of the checkbox Show incompleted tasks only
+
+Step 3 - Handleing events
+    -Form submit for a new task
+    - Change a task's stutus
+    - Removing a task
+    - Toggle show incpmpleted tasks only
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +83,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
